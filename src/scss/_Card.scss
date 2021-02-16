@@ -1,0 +1,10 @@
+.card {
+  display:block;
+  height: 100%;
+  border: 5px solid #100927;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 5%;
+  background-color: rgb(176, 197, 218);
+  transition: 0.3s background-color linear;
+}
